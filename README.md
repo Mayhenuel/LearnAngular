@@ -1,64 +1,36 @@
 Workspace Angular
 1. Cấu trúc thư mục: 
+## 📁 Cấu trúc thư mục
+
+```text
 LearnAngular/
-│
-├── my-app/                              
-│   ├── .editorconfig                    
-│   ├── .gitignore                       
-│   ├── .prettierrc                      
-│   ├── .vscode/                         
-│   │   ├── extensions.json
-│   │   ├── launch.json
-│   │   └── tasks.json
-│   │
-│   ├── public/                          
-│   │   ├── dataset/
-│   │   │   ├── customers.json
-│   │   │   └── products.json
-│   │   └── favicon.ico
-│   │
-│   ├── src/
-│   │   ├── app/                        
-│   │   │   ├── binding-class-component/
-│   │   │   ├── binding-event-component/
-│   │   │   ├── binding-property-component/
-│   │   │   ├── binding-style-component/
-│   │   │   ├── binding-two-way-component/
-│   │   │   ├── catalog-product/
-│   │   │   ├── classes/
-│   │   │   ├── contact/
-│   │   │   ├── customer-http/
-│   │   │   ├── homework/
-│   │   │   ├── product-dropdown-list-component/
-│   │   │   ├── product-http-handle-error-service-component/
-│   │   │   ├── product-list-call-http-service-component/
-│   │   │   ├── product-list-call-service-component/
-│   │   │   ├── product-list-component/
-│   │   │   ├── service-product-image-event/
-│   │   │   ├── service-product-image-event-detail/
-│   │   │   ├── services/
-│   │   │   ├── app-module.ts
-│   │   │   ├── app-routing-module.ts
-│   │   │   ├── app.css
-│   │   │   ├── app.html
-│   │   │   ├── app.spec.ts
-│   │   │   └── app.ts
-│   │   │
-│   │   ├── index.html                  
-│   │   ├── main.ts                     
-│   │   └── styles.css                   
-│   │
-│   ├── angular.json                     
-│   ├── package.json                     
-│   ├── package-lock.json                
-│   ├── tsconfig.json                    
-│   ├── tsconfig.app.json                
-│   ├── tsconfig.spec.json               
-│   └── README.md                        
-│
-├── Homework.code-workspace            
-├── LearnAngular.code-workspace           
-└── .gitignore                          
+└── my-app/
+    ├── public/
+    ├── src/
+    │   ├── app/
+    │   │   ├── binding-class-component/
+    │   │   ├── binding-event-component/
+    │   │   ├── binding-property-component/
+    │   │   ├── binding-style-component/
+    │   │   ├── binding-two-way-component/
+    │   │   ├── catalog-product/
+    │   │   ├── customer-http/
+    │   │   ├── product-list-component/
+    │   │   ├── services/
+    │   │   ├── app.ts
+    │   │   ├── app.html
+    │   │   └── app.css
+    │   │
+    │   ├── index.html
+    │   ├── main.ts
+    │   └── styles.css
+    │
+    ├── angular.json
+    ├── package.json
+    ├── package-lock.json
+    ├── tsconfig.json
+    └── README.md
+```                         
 Tổng quan
 
 2. Về bài tập về nhà:
