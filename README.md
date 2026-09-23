@@ -66,7 +66,7 @@ src/app/
 ├── services/
 │   └── catalog.service.*
 ```
-* Bài 15:
+* Bài 18:
     
 ```
 src/app/
