@@ -31,7 +31,6 @@ LearnAngular/
     ├── tsconfig.json
     └── README.md
 ```                         
-Tổng quan
 
 2. Về bài tập về nhà:
 * Bài 13: 
