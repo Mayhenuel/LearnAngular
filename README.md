@@ -34,7 +34,7 @@ LearnAngular/
 Tổng quan
 
 2. Về bài tập về nhà:
-   * Bài 13: 
+* Bài 13: 
 ```
 src/app/
 │  │
@@ -52,8 +52,10 @@ src/app/
 |
 ├── services/
 │   └── product-service2.*
+```
 
-   * Bài 14
+* Bài 14
+```
 src/app/
 │  │
 ├── catalog-product/
@@ -64,7 +66,10 @@ src/app/
 |
 ├── services/
 │   └── catalog.service.*
-    * Bài 15:
+```
+* Bài 15:
+    
+```
 src/app/
 │  │
 ├── customer-http/
