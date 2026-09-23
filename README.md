@@ -35,7 +35,7 @@ Tổng quan
 
 2. Về bài tập về nhà:
    * Bài 13: 
-Thành phần chính
+```
 src/app/
 │  │
 ├── service-product-image-event/
@@ -53,7 +53,7 @@ src/app/
 ├── services/
 │   └── product-service2.*
 
-   * Bài 14:
+   * Bài 14
 src/app/
 │  │
 ├── catalog-product/
@@ -75,6 +75,6 @@ src/app/
 |
 ├── services/
 │   └── customer-service.*
-
+```
 3. Thực thi Project:
 4. Tác giả: Hang Nguyen 
